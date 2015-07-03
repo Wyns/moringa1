@@ -1,0 +1,92 @@
+
+.header{
+	background-image:url('/home/paul/.local/share/Trash/files/Assignment_1/assets/backgrounds/hero.jpg');
+	background-position: top;
+	background-repeat: no-repeat;
+    width: 100;
+    text-align:center;
+    background-size: 100%;
+    padding: 130px;
+
+}
+
+.header h1{
+	float: right;
+}
+.header h1 img{
+	float: right;
+}
+
+	h2,p{
+		text-align: center;
+		color: white;
+	}
+	 .nav{
+background-color: brown;
+background-position:center;
+margin: 0px;
+padding: 20px;
+ }
+ .box{
+ 	background-color: blue;
+ 	margin: 5px;
+ 	width: 15%;
+ 	float: right;
+ 	border: 1px solid red;
+ }
+
+.article{
+	width: 100%;
+	padding: 10px;
+	margin: 3px;
+
+}
+.article img{
+	border: 1px;
+	padding: 10px 100px;
+	background-color: 
+
+}
+.footer {
+	background-image: url('/home/paul/Desktop/webasn/assets/backgrounds/about.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	width: 100%;
+	padding: 100px;
+
+}
+.pop{
+	background-color: 000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</style>
